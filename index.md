@@ -12,7 +12,7 @@ The version that will work on your phone is unknown but there's a few versions t
 
 The easiest way is to go to Settings -> Apps -> All Apps -> Google Play Services which will bring you to this screen:
 
-![GooglePlayServices.png]({{site.baseurl}}/GooglePlayServices.png)
+<img src="images/GooglePlayServices.png"/>
 
 In this example we can see my current Google Play Services Version: **16.0.89**. Followed by **(040408-...)** 
 
@@ -20,7 +20,7 @@ Those **040408** numbers are the ones we want to find out the version for our ph
 
 So let's pretend we want to download the version **12.6.85** (linked above) for my phone. We can see there's many **Variants** on apkmirror.com _What a mess!_ You just go on your browser and press **CTRL-F** (⌘ Cmd+F if you're on mac) and type the _magic numbers_ **040408** in my case it found this result:
 
-![googleplayservices1.PNG]({{site.baseurl}}/googleplayservices1.PNG)
+<img src="googleplayservices1.PNG" alt="hi" class="inline"/>
 
 
 Then proceed to download and install it accordingly.

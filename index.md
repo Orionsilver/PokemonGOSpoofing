@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to the Pokemon GO Spoofing guide #
 
-You can use the [editor on GitHub](https://github.com/SoaresPT/PokemonGOSpoofing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# The guide will need a lot of work and will be updated during my free time #
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Recently Niantic made some changes which require non root users to update their Google Play services Version. So if you're affected by it you'll need to update your Google Play Services version###
 
-```markdown
-Syntax highlighted code block
+The version that will work on your phone is unknown but there's a few versions that you can try and stick with the one that works for you. Those are [12.5.29](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-5-29-release/) , [12.6.85](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release/), [12.6.87](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-87-release/) and [12.6.88](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-88-release/) .
 
-# Header 1
-## Header 2
-### Header 3
+### How to know the right version for your phone ###
 
-- Bulleted
-- List
+The easiest way is to go to Settings -> Apps -> All Apps -> Google Play Services which will bring you to this screen:
 
-1. Numbered
-2. List
+![GooglePlayServices.png]({{site.baseurl}}/GooglePlayServices.png)
 
-**Bold** and _Italic_ and `Code` text
+In this example we can see my current Google Play Services Version: **16.0.89**. Followed by **(040408-...)** 
 
-[Link](url) and ![Image](src)
-```
+Those **040408** numbers are the ones we want to find out the version for our phone. Obviously your phone can/will have different ones but reffer to this as an example.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+So let's pretend we want to download the version **12.6.85** (linked above) for my phone. We can see there's many **Variants** on apkmirror.com _What a mess!_ You just go on your browser and press **CTRL-F** (⌘ Cmd+F if you're on mac) and type the _magic numbers_ **040408** in my case it found this result:
 
-### Jekyll Themes
+![googleplayservices1.PNG]({{site.baseurl}}/googleplayservices1.PNG)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SoaresPT/PokemonGOSpoofing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Then proceed to download and install it accordingly.

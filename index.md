@@ -1,5 +1,6 @@
 # Welcome to the Pokemon GO Spoofing guide #
 
+[see above](#login-optional-fields)
 
 # The guide will need a lot of work and will be updated during my free time #
 
@@ -22,5 +23,8 @@ So let's pretend we want to download the version **12.6.85** (linked above) for 
 
 <img src="googleplayservices1.PNG" alt="hi" class="inline"/>
 
+<h4 id="login-optional-fields">
+Optional Fields
+</h4>
 
 Then proceed to download and install it accordingly.

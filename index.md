@@ -1,6 +1,6 @@
 # Welcome to the Pokemon GO Spoofing guide #
 
-[Unrooted_Devices](#Unrooted_Devices)
+[Unrooted Devices](#Unrooted_Devices)
 
 # The guide will need a lot of work and will be updated during my free time #
 

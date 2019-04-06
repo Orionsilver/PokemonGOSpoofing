@@ -37,6 +37,8 @@ Then proceed to download and install it accordingly.
 <img src="images/stop_gp_updates_2.png">
 4. Click on **Mobile Data** Note: In some phones it's called **Data Usage**
 <img src="images/stop_gp_updates_3.png">
+5. Disable any background data permissions the app has. (Some devices will have different names for the option. Just untoggle all the Data permissions)
+<img src="images/stop_gp_updates_4.png">
 
 <h1 id="Rooted_Devices">Rooted Devices</h1>
 

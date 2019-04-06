@@ -1,9 +1,9 @@
 # Welcome to the Pokemon GO Spoofing guide #
 
 
-[Unrooted Devices](#Unrooted_Devices)<br>
-[Rooted Devices](#Rooted_Devices)<br>
-[How to hide root](#How_to_hide_root)
+*[Unrooted Devices](#Unrooted_Devices)
+*[Rooted Devices](#Rooted_Devices)
+++[How to hide root](#How_to_hide_root)
 
 # The guide will need a lot of work and will be updated during my free time #
 

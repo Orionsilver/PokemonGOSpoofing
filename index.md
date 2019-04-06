@@ -49,7 +49,7 @@ Then proceed to download and install it accordingly.
 <img src="images/stop_gp_updates_8.png">
 10. Go back to your **Settings -> Apps -> All Apps** click the **Google Play Store** (not the services) and press the **Disable** button
 <img src="images/stop_gp_updates_9.png">
-11. Restart your phone. That's it! Google Play Services shouldn't update anymore.
+11. Restart your phone. That's it! Google Play Services shouldn't update anymore. Credits to @MichelleO 盧金虹#7754
 
 <h1 id="Rooted_Devices">Rooted Devices</h1>
 

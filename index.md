@@ -37,5 +37,10 @@ Then proceed to download and install it accordingly.
 <img src="images/magisk_settings.png"/>
 <p>Then press "Hide Magisk Manager"(4th option) (picture below)</p>
 <img src="images/magisk_manager1.jpg"/>
-<p>Magisk should close in order to change the package name. Open it again</p>
-
+<p>Magisk should close in order to change the package name. You can check if it was sucessful by repeating the same steps and checking if now instead of **Hide Magisk Manager** it says **Restore Magisk Manager**. If it doesn't you'll have to repeat this step again. Otherwise continue on.</p>
+<img src="images/magisk_manager2.jpg">
+<p>Now click the top left corner button like you did on the first step since we started (first picture) and select **Magisk Hide**</p>
+<img src="images/magisk_manager3.png"/>
+<p>There you will find a list of your installed apps. Put a :white_check_mark: on Pokemon GO </p>
+<img src="images/magisk_manager4.png"/>
+<p>That's it! Pokemon GO shouldn't detect root anymore. Open it and test. If you do happen to get invalid OS error then check in your internal storage and delete any folder(s) with the name "Magisk", "Magisk Manager" and retry to open Pokemon GO</p>

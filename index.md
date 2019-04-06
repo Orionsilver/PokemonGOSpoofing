@@ -40,6 +40,7 @@ Then proceed to download and install it accordingly.
 5. Disable any background data permissions the app has. (Some devices will have different names for the option. Just untoggle all the Data permissions)
 <img src="images/stop_gp_updates_4.png">
 6. If you need to downgrade your Google Play Services do it now. Reffer to <a href="#how-to-downgrade-google-play-services">How to Downgrade Google Play Services</a>
+
 7. Next we want to Disable Google Play Services storage permissions. (Reffer to the picture on the Step 4) and Click on **Permissions**
 <img src="images/stop_gp_updates_5.png">
 8. Then untoggle **Storage**

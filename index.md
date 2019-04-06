@@ -28,14 +28,15 @@ So let's pretend we want to download the version **12.6.85** (linked above) for 
 <img src="images/googleplayservices1.PNG" alt="hi" class="inline"/>
 
 Then proceed to download and install it accordingly.
-<h2 id="Stop_GP_Services_Updates">How to Stop Google Play Services updates</h2>
+<h2 id="Stop_GP_Services_Updates">How to Stop Google Play Updates</h2>
 <p>This is a necessary step for non-root users so you don't have to downgrade all the time because Google Play Services updates itself on the background. So let's start off by Disabling mobile background data for Google Play Services:</p>
 1. Start by going to your phone's Settings
 2. Click on "Apps" <br>
 <img src="images/stop_gp_updates_1.png">
 3. Click on "Google Play Services <br>
 <img src="images/stop_gp_updates_2.png">
-4. 
+4. Click on **Mobile Data** Note: In some phones it's called **Data Usage**
+<img src="images/stop_gp_updates_3.png">
 
 <h1 id="Rooted_Devices">Rooted Devices</h1>
 

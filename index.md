@@ -3,6 +3,7 @@
 
 * [Unrooted Devices](#Unrooted_Devices)
    * [How to Downgrade Google Play Services](#Downgrade_GP_Services)
+   * [How to STOP Google Play Updates](#Stop_GP_Services_Updates)
 * [Rooted Devices](#Rooted_Devices)
    * [How to hide root](#How_to_hide_root)
 
@@ -27,6 +28,8 @@ So let's pretend we want to download the version **12.6.85** (linked above) for 
 <img src="googleplayservices1.PNG" alt="hi" class="inline"/>
 
 Then proceed to download and install it accordingly.
+<h2 id="Stop_GP_Services_Updates">How to Stop Google Play Services updates</2>
+<p>...</p>
 
 <h1 id="Rooted_Devices">Rooted Devices</h1>
 

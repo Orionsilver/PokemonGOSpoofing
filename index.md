@@ -45,7 +45,8 @@ Then proceed to download and install it accordingly.
 
 7. Next we want to Disable Google Play Services storage permissions. (Reffer to the picture on the Step 4) and Click on **Permissions**
 <img src="images/stop_gp_updates_5.png">
-
+8. Then untoggle **Storage**
+<img src="images/stop_gp_updates_6.png">
 
 <h1 id="Rooted_Devices">Rooted Devices</h1>
 

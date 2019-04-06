@@ -1,8 +1,9 @@
 # Welcome to the Pokemon GO Spoofing guide #
 
-[Unrooted Devices](#Unrooted_Devices)<br>
-[Rooted Devices](#Rooted_Devices)
-
+<ul>
+  <li>[Unrooted Devices](#Unrooted_Devices)</li>
+  <li>[Rooted Devices](#Rooted_Devices)</li>
+</ul>
 # The guide will need a lot of work and will be updated during my free time #
 
 <h1 id="Unrooted_Devices">Unrooted Devices</h1>

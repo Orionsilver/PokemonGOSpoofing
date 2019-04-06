@@ -1,6 +1,6 @@
 # Welcome to the Pokemon GO Spoofing guide #
 
-[Unrooted Devices](#Unrooted_Devices)
+[Unrooted Devices](#Unrooted_Devices)<br>
 [Rooted Devices](#Rooted_Devices)
 
 # The guide will need a lot of work and will be updated during my free time #
@@ -29,3 +29,13 @@ Then proceed to download and install it accordingly.
 <h1 id="Rooted_Devices">Rooted Devices</h1>
 
 <h3>How to properly hide root from Pokemon GO</h3>
+<h2> Hiding root from Pokemon GO is fairly simple </h2>
+
+<p>Start by opening the Magisk Manager app and click on the highlighted button (picture below) </p>
+<img src="images/magisk_manager.jpg"/>
+<p>Then select Settings (picture below) </p>
+<img src="images/magisk_settings.png"/>
+<p>Then press "Hide Magisk Manager"(4th option) (picture below)</p>
+<img src="images/magisk_manager1.jpg"/>
+<p>Magisk should close in order to change the package name. Open it again</p>
+

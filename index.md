@@ -59,14 +59,13 @@ Then proceed to download and install it accordingly.
 
 <h2 id="How_to_hide_root">How to properly hide root from Pokemon GO</h2>
 <h3> Hiding root from Pokemon GO is fairly simple </h3>
-
 <p>Start by opening the Magisk Manager app and click on the highlighted button (picture below) </p>
 <img src="images/magisk_manager.jpg"/>
 <p>Then select Settings (picture below) </p>
 <img src="images/magisk_settings.png"/>
 <p>Then press "Hide Magisk Manager"(4th option) (picture below)</p>
 <img src="images/magisk_manager1.jpg"/>
-<p>Magisk should close in order to change the package name. You can check if it was sucessful by repeating the same steps and checking if now instead of **Hide Magisk Manager** it says **Restore Magisk Manager**. If it doesn't you'll have to repeat this step again. Otherwise continue on.</p>
+<p>Magisk should close in order to change the package name. You can check if it was sucessful by repeating the same steps and checking if now instead of <b>Hide Magisk Manager</b> it says <b>Restore Magisk Manager</b>. This means you're good to go to the next step :white_check_mark:. If it doesn't you'll have to repeat this step again. Otherwise continue on.</p>
 <img src="images/magisk_manager2.jpg">
 <p>Now click the top left corner button like you did on the first step since we started (first picture) and select **Magisk Hide**</p>
 <img src="images/magisk_manager3.png"/>

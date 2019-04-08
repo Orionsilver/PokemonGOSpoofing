@@ -36,6 +36,7 @@
       </div>
    </div>
 </div>
+  <a href="#How_to_hide_root">test</a>
 
 <h1 id="Unrooted_Devices">Unrooted Devices</h1>
 <h2 id="Downgrade_GP_Services">How to downgrade Google Play Services</h2>

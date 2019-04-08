@@ -10,10 +10,7 @@
     <script type="text/javascript" src="js/scripts.js"></script> 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  </head>
-<body>
-<h1> Welcome to the Pokemon GO Spoofing guide </h1>
-<script>$(function() {
+    <script>$(function() {
 
   $('.list-group-item').on('click', function() {
     $('.fas', this)
@@ -22,6 +19,9 @@
   });
 
 });</script>
+  </head>
+<body>
+<h1> Welcome to the Pokemon GO Spoofing guide </h1>
 <div class="just-padding">
    <div class="list-group list-group-root card">
       <a href="#item-1" class="list-group-item" data-toggle="collapse">

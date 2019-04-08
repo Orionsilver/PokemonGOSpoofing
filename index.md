@@ -10,7 +10,6 @@
 <body>
 <h1> Welcome to the Pokemon GO Spoofing guide </h1>
 
-
 * [Unrooted Devices](#Unrooted_Devices)
    * [How to Downgrade Google Play Services](#Downgrade_GP_Services)
    * [How to STOP Google Play Updates](#Stop_GP_Services_Updates)

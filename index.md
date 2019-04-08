@@ -15,7 +15,7 @@
 <h1> Welcome to the Pokemon GO Spoofing guide </h1>
 <div class="just-padding">
    <div class="list-group list-group-root card">
-      <a href="#item1" class="list-group-item" data-toggle="collapse">
+      <a href="#item-1" class="list-group-item" data-toggle="collapse">
       <i class="fas fa-angle-right mr-2"></i>Unrooted Devices
       </a>
       <div class="list-group collapse" id="item-1">

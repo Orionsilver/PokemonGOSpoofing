@@ -38,12 +38,6 @@
    </div>
 </div>
 
-* [Unrooted Devices](#Unrooted_Devices)
-   * [How to Downgrade Google Play Services](#Downgrade_GP_Services)
-   * [How to STOP Google Play Updates](#Stop_GP_Services_Updates)
-* [Rooted Devices](#Rooted_Devices)
-   * [How to hide root](#How_to_hide_root)
-
 <h1 id="Unrooted_Devices">Unrooted Devices</h1>
 <h2 id="Downgrade_GP_Services">How to downgrade Google Play Services</h2>
 <p>Recently Niantic made some changes which require non root users to update their Google Play services Version. So if you're affected by it you'll need to update your Google Play Services version</p>

@@ -13,7 +13,15 @@
   </head>
 <body>
 <h1> Welcome to the Pokemon GO Spoofing guide </h1>
+<script>$(function() {
 
+  $('.list-group-item').on('click', function() {
+    $('.fas', this)
+      .toggleClass('fa-angle-right')
+      .toggleClass('fa-angle-down');
+  });
+
+});</script>
 <div class="just-padding">
    <div class="list-group list-group-root card">
       <a href="#item-1" class="list-group-item" data-toggle="collapse">

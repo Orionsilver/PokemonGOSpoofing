@@ -19,9 +19,9 @@
 
 <h1 id="Unrooted_Devices">Unrooted Devices</h1>
 <h2 id="Downgrade_GP_Services">How to downgrade Google Play Services</h2>
-<h3>Recently Niantic made some changes which require non root users to update their Google Play services Version. So if you're affected by it you'll need to update your Google Play Services version</h3>
+<p>Recently Niantic made some changes which require non root users to update their Google Play services Version. So if you're affected by it you'll need to update your Google Play Services version</p>
 
-The version that will work on your phone is unknown but there's a few versions that you can try and stick with the one that works for you. Those are <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-5-29-release" target="_blank">12.5.29</a>, <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release" target="_blank">12.6.85</a>, <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-87-release" target="_blank">12.6.87</a> and <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-88-release" target="_blank">12.6.88</a> . Before you downgrade do the following go to <b>Settings -> Device Administrator -> uncheck "Find My Device"</b>. Afterwards proceed to install any version mentioned above and <b>reboot your phone</b> then check if you're able to spoof.
+<p>The version that will work on your phone is unknown but there's a few versions that you can try and stick with the one that works for you. Those are <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-5-29-release" target="_blank">12.5.29</a>, <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release" target="_blank">12.6.85</a>, <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-87-release" target="_blank">12.6.87</a> and <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-88-release" target="_blank">12.6.88</a> . Before you downgrade do the following go to <b>Settings -> Device Administrator -> uncheck "Find My Device"</b>. Afterwards proceed to install any version mentioned above and <b>reboot your phone</b> then check if you're able to spoof.</p>
 
 <h3> How to know the right version for your phone </h3>
 
@@ -33,7 +33,7 @@ In this example we can see my current Google Play Services Version:<b>16.0.89</b
 
 Those <b>040408</b> numbers are the ones we want to find out the version for our phone. Obviously your phone can/will have different ones but reffer to this as an example. Sometimes certain phones only show <b>448</b> for example so you put a 0 before each number making it <b>040408</b>
 
-So let's pretend we want to download the version <b>12.6.85</b> (linked above) for my phone. We can see there's many <b>Variants</b> on <href="http://apkmirror.com">apkmirror.com</a> <i>What a mess!</i> You just go on your browser and press <b>CTRL-F</b> (⌘ Cmd+F if you're on mac) and type the <i>magic numbers</i> <b>040408</b> in my case it found this result:
+So let's pretend we want to download the version <b>12.6.85</b> (linked above) for my phone. We can see there's many <b>Variants</b> on <a href="http://apkmirror.com">apkmirror.com</a> <i>What a mess!</i> You just go on your browser and press <b>CTRL-F</b> (⌘ Cmd+F if you're on mac) and type the <i>magic numbers</i> <b>040408</b> in my case it found this result:
 
 <img src="images/googleplayservices1.PNG" alt="hi" class="inline"/>
 

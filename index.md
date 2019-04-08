@@ -1,10 +1,7 @@
 <html>
-  <head>
-    <!-- CSS -->
-    <link rel="stylesheet" type="text/css" href="css/scrollUpButton.css" media="all" />
-    <!-- Javascript -->
-    <script type="text/javascript" src="js/scrollUpButton.js"></script>
-  </head>
+<head>
+<link rel="stylesheet" type="text/css" href="css/scrollUpButton.css" media="all" />
+</head>
 <body>
 <h1> Welcome to the Pokemon GO Spoofing guide </h1>
 

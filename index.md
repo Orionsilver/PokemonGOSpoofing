@@ -2,8 +2,10 @@
   <head>
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="css/scrollUpButton.css" media="all" />
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <!-- Javascript -->
     <script type="text/javascript" src="js/scrollUpButton.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   </head>
 <body>
 <h1> Welcome to the Pokemon GO Spoofing guide </h1>
@@ -79,6 +81,6 @@ Then proceed to download and install it accordingly.
 <p>There you will find a list of your installed apps. Put a :white_check_mark: on Pokemon GO </p>
 <img src="images/magisk_manager4.png"/>
 <p>That's it! Pokemon GO shouldn't detect root anymore. Open it and test. If you do happen to get invalid OS error then check in your internal storage and delete any folder(s) with the name <b>"Magisk"</b>, <b>"Magisk Manager"</b> and retry to open Pokemon GO</p>
-<a href="#" class="scrollUpButton">^</a>
+<a href="#" class="glyphicon glyphicon-chevron-up"></a>
 </body>
 </html>

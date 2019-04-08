@@ -10,15 +10,6 @@
     <script type="text/javascript" src="js/scripts.js"></script> 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script>$(function() {
-
-  $('.list-group-item').on('click', function() {
-    $('.fas', this)
-      .toggleClass('fa-angle-right')
-      .toggleClass('fa-angle-down');
-  });
-
-});</script>
   </head>
 <body>
 <h1> Welcome to the Pokemon GO Spoofing guide </h1>

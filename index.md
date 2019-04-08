@@ -25,7 +25,7 @@
 
 <h3> How to know the right version for your phone </h3>
 
-The easiest way is to go to Settings -> Apps -> All Apps -> Google Play Services which will bring you to this screen:
+The easiest way is to go to <b>Settings -> Apps -> All Apps -> Google Play Services</b> which will bring you to this screen:
 
 <img src="images/GooglePlayServices.png"/>
 
@@ -33,7 +33,7 @@ In this example we can see my current Google Play Services Version:<b>16.0.89</b
 
 Those <b>040408</b> numbers are the ones we want to find out the version for our phone. Obviously your phone can/will have different ones but reffer to this as an example. Sometimes certain phones only show <b>448</b> for example so you put a 0 before each number making it <b>040408</b>
 
-So let's pretend we want to download the version <b>12.6.85</b> (linked above) for my phone. We can see there's many <b>Variants</b> on <a href="http://apkmirror.com">apkmirror.com</a> <i>What a mess!</i> You just go on your browser and press <b>CTRL-F</b> (⌘ Cmd+F if you're on mac) and type the <i>magic numbers</i> <b>040408</b> in my case it found this result:
+So let's pretend we want to download the version <b>12.6.85</b> (linked above) for my phone. We can see there's many <b>Variants</b> on <a href="http://apkmirror.com" target="_blank">apkmirror.com</a> <i>What a mess!</i> You just go on your browser and press <b>CTRL-F</b> (⌘ Cmd+F if you're on mac) and type the <i>magic numbers</i> <b>040408</b> in my case it found this result:
 
 <img src="images/googleplayservices1.PNG" alt="hi" class="inline"/>
 

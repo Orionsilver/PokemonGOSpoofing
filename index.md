@@ -19,12 +19,8 @@
       <i class="fas fa-angle-right mr-2"></i>Unrooted Devices
       </a>
       <div class="list-group collapse" id="item-1">
-         <a href="#item1-1" class="list-group-item">
-         <i class="fas fa-angle-right mr-2"></i>How to Downgrade Google Play Services
-         </a>
-         <a href="#item-1-2" class="list-group-item" data-toggle="collapse">
-         <i class="fas fa-angle-right mr-2"></i>How to STOP Google Play Updates
-         </a>
+         <a href="#Downgrade_GP_Services" class="list-group-item"><i class="fas fa-angle-right mr-2"></i>How to Downgrade Google Play Services</a>
+         <a href="#Stop_GP_Services_Updates" class="list-group-item"><i class="fas fa-angle-right mr-2"></i>How to STOP Google Play Updates</a>
       </div>
       <a href="#item-2" class="list-group-item" data-toggle="collapse">
       <i class="fas fa-angle-right mr-2"></i>Rooted Devices
@@ -34,7 +30,6 @@
       </div>
    </div>
 </div>
-  <a href="#How_to_hide_root">test</a>
 
 <h1 id="Unrooted_Devices">Unrooted Devices</h1>
 <h2 id="Downgrade_GP_Services">How to downgrade Google Play Services</h2>

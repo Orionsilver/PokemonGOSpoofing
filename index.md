@@ -1,4 +1,4 @@
-# Welcome to the Pokemon GO Spoofing guide #
+<h1> Welcome to the Pokemon GO Spoofing guide </h1>
 
 
 * [Unrooted Devices](#Unrooted_Devices)
@@ -11,19 +11,19 @@
 <h2 id="Downgrade_GP_Services">How to downgrade Google Play Services</h2>
 <h3>Recently Niantic made some changes which require non root users to update their Google Play services Version. So if you're affected by it you'll need to update your Google Play Services version</h3>
 
-The version that will work on your phone is unknown but there's a few versions that you can try and stick with the one that works for you. Those are [12.5.29](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-5-29-release/) , [12.6.85](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release/), [12.6.87](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-87-release/) and [12.6.88](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-88-release/). Before you downgrade do the following go to **Settings -> Device Administrator -> _UNCHECK_ "Find My Device"**. Afterwards proceed to install any version mentioned above and **reboot your phone** then check if you're able to spoof.
+The version that will work on your phone is unknown but there's a few versions that you can try and stick with the one that works for you. Those are [12.5.29](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-5-29-release/) , [12.6.85](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release/), [12.6.87](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-87-release/) and [12.6.88](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-88-release/). Before you downgrade do the following go to <b>Settings -> Device Administrator -> <i>UNCHECK</i> Find My Device</b>. Afterwards proceed to install any version mentioned above and <b>reboot your phone</b> then check if you're able to spoof.
 
-### How to know the right version for your phone ###
+<h3> How to know the right version for your phone </h3>
 
 The easiest way is to go to Settings -> Apps -> All Apps -> Google Play Services which will bring you to this screen:
 
 <img src="images/GooglePlayServices.png"/>
 
-In this example we can see my current Google Play Services Version: **16.0.89**. Followed by **(040408-...)** 
+In this example we can see my current Google Play Services Version:<b>16.0.89</b>. Followed by <b>(040408-...)</b> 
 
-Those **040408** numbers are the ones we want to find out the version for our phone. Obviously your phone can/will have different ones but reffer to this as an example.
+Those <b>040408</b> numbers are the ones we want to find out the version for our phone. Obviously your phone can/will have different ones but reffer to this as an example. Sometimes certain phones only show <b>448</b> for example so you put a 0 before each number making it <b>040408</b>
 
-So let's pretend we want to download the version **12.6.85** (linked above) for my phone. We can see there's many **Variants** on apkmirror.com _What a mess!_ You just go on your browser and press **CTRL-F** (⌘ Cmd+F if you're on mac) and type the _magic numbers_ **040408** in my case it found this result:
+So let's pretend we want to download the version <b>12.6.85</b> (linked above) for my phone. We can see there's many <b>Variants</b> on <href="http://apkmirror.com">apkmirror.com</a> <i>What a mess!</i> You just go on your browser and press **CTRL-F** (⌘ Cmd+F if you're on mac) and type the <i>magic numbers</i> <b>040408</b> in my case it found this result:
 
 <img src="images/googleplayservices1.PNG" alt="hi" class="inline"/>
 
@@ -35,25 +35,25 @@ Then proceed to download and install it accordingly.
 <img src="images/stop_gp_updates_1.png">
 3. Click on "Google Play Services <br>
 <img src="images/stop_gp_updates_2.png">
-4. Click on **Mobile Data** Note: In some phones it's called **Data Usage**
+4. Click on <b>Mobile Data</b> Note: In some phones it's called <b>Data Usage</b>
 <img src="images/stop_gp_updates_3.png">
 5. Disable any background data permissions the app has. (Some devices will have different names for the option. Just untoggle all the Data permissions)
 <img src="images/stop_gp_updates_4.png">
-6. If you need to downgrade your Google Play Services do it now. Reffer to <a href="#how-to-downgrade-google-play-services">How to Downgrade Google Play Services</a> Next we want to Disable Google Play Services storage permissions. (Reffer to the picture on the Step 4) and Click on **Permissions**
+6. If you need to downgrade your Google Play Services do it now. Reffer to <a href="#how-to-downgrade-google-play-services">How to Downgrade Google Play Services</a> Next we want to Disable Google Play Services storage permissions. (Reffer to the picture on the Step 4) and Click on <b>Permissions</b>
 <img src="images/stop_gp_updates_5.png">
-7. Then untoggle **Storage**
+7. Then untoggle <b>Storage</b>
 <img src="images/stop_gp_updates_6.png">
-8. Go back to the Google Play Services app info menu and tap **Storage**
+8. Go back to the Google Play Services app info menu and tap <b>Storage</b>
 <img src="images/stop_gp_updates_7.png">
 9. Press the **Clear Cache** button
 <img src="images/stop_gp_updates_8.png">
-10. Go back to your **Settings -> Apps -> All Apps** click the **Google Play Store** (not the services) and press the **Disable** button
+10. Go back to your <b>Settings -> Apps -> All Apps</b> click the <b>Google Play Store</b> (not the services) and press the <b>Disable</b> button
 <img src="images/stop_gp_updates_9.png">
-11. Go back to **Settings -> Apps** and click on the 3 vertical dots **⋮** and select Show System apps
+11. Go back to <b>Settings -> Apps</b> and click on the 3 vertical dots <b>⋮</b> and select Show System apps
 <img src="images/stop_gp_updates_10.png">
-12. On that same screen click on the app **Download Manager** and click Disable
+12. On that same screen click on the app <b>Download Manager</b> and click Disable
 <img src="images/stop_gp_updates_11.png">
-13. Restart your phone. That's it! Google Play Services shouldn't update anymore. Credits to @MichelleO 盧金虹#7754
+13. Restart your phone. That's it! Google Play Services shouldn't update anymore. Credits to <b>@MichelleO 盧金虹#7754</b>
 
 <h1 id="Rooted_Devices">Rooted Devices</h1>
 
@@ -67,7 +67,7 @@ Then proceed to download and install it accordingly.
 <img src="images/magisk_manager1.jpg"/>
 <p>Magisk should close in order to change the package name. You can check if it was sucessful by repeating the same steps and checking if now instead of <b>Hide Magisk Manager</b> it says <b>Restore Magisk Manager</b>. This means you're good to go to the next step :white_check_mark:. If it doesn't you'll have to repeat this step again. Otherwise continue on.</p>
 <img src="images/magisk_manager2.jpg">
-<p>Now click the top left corner button like you did on the first step since we started (first picture) and select **Magisk Hide**</p>
+<p>Now click the top left corner button like you did on the first step since we started (first picture) and select <b>Magisk Hide</b></p>
 <img src="images/magisk_manager3.png"/>
 <p>There you will find a list of your installed apps. Put a :white_check_mark: on Pokemon GO </p>
 <img src="images/magisk_manager4.png"/>

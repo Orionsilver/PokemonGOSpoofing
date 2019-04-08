@@ -77,7 +77,7 @@ Then proceed to download and install it accordingly.
 <img src="images/magisk_manager2.jpg">
 <p>Now click the top left corner button like you did on the first step since we started (first picture) and select <b>Magisk Hide</b></p>
 <img src="images/magisk_manager3.png"/>
-<p>There you will find a list of your installed apps. Put a Checkmark on Pokemon GO </p>
+<p>There you will find a list of your installed apps. Put a <span class="glyphicon glyphicon-ok"></span> on Pokemon GO </p>
 <img src="images/magisk_manager4.png"/>
 <p>That's it! Pokemon GO shouldn't detect root anymore. Open it and test. If you do happen to get invalid OS error then check in your internal storage and delete any folder(s) with the name <b>"Magisk"</b>, <b>"Magisk Manager"</b> and retry to open Pokemon GO</p>
 <a href="#" class="glyphicon glyphicon-chevron-up"></a>

@@ -23,7 +23,7 @@ In this example we can see my current Google Play Services Version:<b>16.0.89</b
 
 Those <b>040408</b> numbers are the ones we want to find out the version for our phone. Obviously your phone can/will have different ones but reffer to this as an example. Sometimes certain phones only show <b>448</b> for example so you put a 0 before each number making it <b>040408</b>
 
-So let's pretend we want to download the version <b>12.6.85</b> (linked above) for my phone. We can see there's many <b>Variants</b> on <href="http://apkmirror.com">apkmirror.com</a> <i>What a mess!</i> You just go on your browser and press **CTRL-F** (⌘ Cmd+F if you're on mac) and type the <i>magic numbers</i> <b>040408</b> in my case it found this result:
+So let's pretend we want to download the version <b>12.6.85</b> (linked above) for my phone. We can see there's many <b>Variants</b> on <href="http://apkmirror.com">apkmirror.com</a> <i>What a mess!</i> You just go on your browser and press <b>CTRL-F</b> (⌘ Cmd+F if you're on mac) and type the <i>magic numbers</i> <b>040408</b> in my case it found this result:
 
 <img src="images/googleplayservices1.PNG" alt="hi" class="inline"/>
 
@@ -45,7 +45,7 @@ Then proceed to download and install it accordingly.
 <img src="images/stop_gp_updates_6.png">
 8. Go back to the Google Play Services app info menu and tap <b>Storage</b>
 <img src="images/stop_gp_updates_7.png">
-9. Press the **Clear Cache** button
+9. Press the <b>Clear Cache</b> button
 <img src="images/stop_gp_updates_8.png">
 10. Go back to your <b>Settings -> Apps -> All Apps</b> click the <b>Google Play Store</b> (not the services) and press the <b>Disable</b> button
 <img src="images/stop_gp_updates_9.png">

@@ -8,7 +8,7 @@
    * [How to hide root](#How_to_hide_root)
 
 <h1 id="Unrooted_Devices">Unrooted Devices</h1>
-<h2 id="Downgrade_GP_Services">How to downgrade Google Play Services</2>
+<h2 id="Downgrade_GP_Services">How to downgrade Google Play Services</h2>
 <h3>Recently Niantic made some changes which require non root users to update their Google Play services Version. So if you're affected by it you'll need to update your Google Play Services version</h3>
 
 The version that will work on your phone is unknown but there's a few versions that you can try and stick with the one that works for you. Those are [12.5.29](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-5-29-release/) , [12.6.85](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release/), [12.6.87](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-87-release/) and [12.6.88](https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-88-release/). Before you downgrade do the following go to **Settings -> Device Administrator -> _UNCHECK_ "Find My Device"**. Afterwards proceed to install any version mentioned above and **reboot your phone** then check if you're able to spoof.

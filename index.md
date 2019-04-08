@@ -30,9 +30,7 @@
       <i class="fas fa-angle-right mr-2"></i>Rooted Devices
       </a>
       <div class="list-group collapse" id="item-2">
-         <a href="#How_to_hide_root" class="list-group-item">
-         <i class="fas fa-angle-right mr-2"></i>How to hide root
-         </a>
+         <a href="#How_to_hide_root" class="list-group-item"><i class="fas fa-angle-right mr-2"></i>How to hide root</a>
       </div>
    </div>
 </div>

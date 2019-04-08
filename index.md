@@ -13,23 +13,28 @@
 <body>
 <h1> Welcome to the Pokemon GO Spoofing guide </h1>
 
-<div id="menu5">
-   <ol>
-      <li>Google
-         <ol>
-            <li>Picasa</li>
-            <li>Feedburner</li>
-            <li>Youtube</li>
-         </ol>
-      </li>
-      <li>Microsoft
-         <ol>
-            <li>Corel Corporation</li>
-            <li>Zignals</li>
-            <li>ByteTaxi</li>
-         </ol>
-      </li>
-   </ol>
+<div class="just-padding">
+   <div class="list-group list-group-root card">
+      <a href="#item-1" class="list-group-item" data-toggle="collapse">
+      <i class="fas fa-angle-right mr-2"></i>Unrooted Devices
+      </a>
+      <div class="list-group collapse" id="item-1">
+         <a href="#item-1-1" class="list-group-item">
+         <i class="fas fa-angle-right mr-2"></i>How to Downgrade Google Play Services
+         </a>
+         <a href="#item-1-2" class="list-group-item" data-toggle="collapse">
+         <i class="fas fa-angle-right mr-2"></i>How to STOP Google Play Updates
+         </a>
+      </div>
+      <a href="#item-2" class="list-group-item" data-toggle="collapse">
+      <i class="fas fa-angle-right mr-2"></i>Rooted Devices
+      </a>
+      <div class="list-group collapse" id="item-2">
+         <a href="#item-2-1" class="list-group-item" data-toggle="collapse">
+         <i class="fas fa-angle-right mr-2"></i>How to hide root
+         </a>
+      </div>
+   </div>
 </div>
 
 * [Unrooted Devices](#Unrooted_Devices)

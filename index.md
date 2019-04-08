@@ -11,7 +11,7 @@
 <h2 id="Downgrade_GP_Services">How to downgrade Google Play Services</h2>
 <h3>Recently Niantic made some changes which require non root users to update their Google Play services Version. So if you're affected by it you'll need to update your Google Play Services version</h3>
 
-The version that will work on your phone is unknown but there's a few versions that you can try and stick with the one that works for you. Those are <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-5-29-release" target="_blank">12.5.29</a>, <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release" target="_blank">12.6.85</a>, <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-87-release" target="_blank">12.6.87</a> and <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-88-release" target="_blank">12.6.88</a> . Before you downgrade do the following go to <b>Settings -> Device Administrator -> uncheck Find My Device</b>. Afterwards proceed to install any version mentioned above and <b>reboot your phone</b> then check if you're able to spoof.
+The version that will work on your phone is unknown but there's a few versions that you can try and stick with the one that works for you. Those are <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-5-29-release" target="_blank">12.5.29</a>, <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release" target="_blank">12.6.85</a>, <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-87-release" target="_blank">12.6.87</a> and <a href="https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-88-release" target="_blank">12.6.88</a> . Before you downgrade do the following go to <b>Settings -> Device Administrator -> uncheck "Find My Device"</b>. Afterwards proceed to install any version mentioned above and <b>reboot your phone</b> then check if you're able to spoof.
 
 <h3> How to know the right version for your phone </h3>
 
@@ -53,13 +53,12 @@ Then proceed to download and install it accordingly.
 <img src="images/stop_gp_updates_10.png">
 12. On that same screen click on the app <b>Download Manager</b> and click Disable
 <img src="images/stop_gp_updates_11.png">
-13. Restart your phone. That's it! Google Play Services shouldn't update anymore. Credits to <b>@MichelleO 盧金虹#7754</b>
+13. Restart your phone. That's it! Google Play Services shouldn't update anymore. Credits to @MichelleO 盧金虹#7754
 
 <h1 id="Rooted_Devices">Rooted Devices</h1>
 
 <h2 id="How_to_hide_root">How to properly hide root from Pokemon GO</h2>
-<h3> Hiding root from Pokemon GO is fairly simple </h3>
-<p>Start by opening the Magisk Manager app and click on the highlighted button (picture below) </p>
+<p>Hiding root from Pokemon GO is fairly simple.<br>Start by opening the Magisk Manager app and click on the highlighted button (picture below) </p>
 <img src="images/magisk_manager.jpg"/>
 <p>Then select Settings (picture below) </p>
 <img src="images/magisk_settings.png"/>

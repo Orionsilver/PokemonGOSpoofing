@@ -19,7 +19,7 @@
       <i class="fas fa-angle-right mr-2"></i>Unrooted Devices
       </a>
       <div class="list-group collapse" id="item-1">
-         <a href="#Unrooted_Devices" class="list-group-item">
+         <a href="#item1-1" class="list-group-item">
          <i class="fas fa-angle-right mr-2"></i>How to Downgrade Google Play Services
          </a>
          <a href="#item-1-2" class="list-group-item" data-toggle="collapse">

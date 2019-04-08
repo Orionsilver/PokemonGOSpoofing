@@ -74,7 +74,7 @@ Then proceed to download and install it accordingly.
 <img src="images/magisk_settings.png"/>
 <p>Then press "Hide Magisk Manager"(4th option) (picture below)</p>
 <img src="images/magisk_manager1.jpg"/>
-<p>Magisk should close in order to change the package name. You can check if it was sucessful by repeating the same steps and checking if now instead of <b>Hide Magisk Manager</b> it says <b>Restore Magisk Manager</b>. This means you're good to go to the next step :white_check_mark:. If it doesn't you'll have to repeat this step again. Otherwise continue on.</p>
+<p>Magisk should close in order to change the package name. You can check if it was sucessful by repeating the same steps and checking if now instead of <b>Hide Magisk Manager</b> it says <b>Restore Magisk Manager</b>. This means you're good to go to the next step <span class="glyphicon glyphicon-ok"></span>. If it doesn't you'll have to repeat this step again. Otherwise continue on.</p>
 <img src="images/magisk_manager2.jpg">
 <p>Now click the top left corner button like you did on the first step since we started (first picture) and select <b>Magisk Hide</b></p>
 <img src="images/magisk_manager3.png"/>

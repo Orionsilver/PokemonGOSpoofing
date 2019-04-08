@@ -3,7 +3,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/SoaresPT/PokemonGOSpoofing/master/favicon.ico">
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="css/scrollUpButton.css" media="all" />
-    <link rel="stylesheet" type="text/css" href="css/stylesheet.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <!-- Javascript -->
     <script type="text/javascript" src="js/scrollUpButton.js"></script>
@@ -13,7 +13,7 @@
 <body>
 <h1> Welcome to the Pokemon GO Spoofing guide </h1>
 
-<div id="menu_list">
+<div id="menu5">
    <ol>
       <li>Google
          <ol>

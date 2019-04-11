@@ -15,8 +15,6 @@
 <h1> Welcome to the Pokemon GO Spoofing guide </h1>
 <div class="just-padding">
    <div class="list-group list-group-root card">
-           <a href="/sentosa.html" class="list-group-item" data-toggle="collapse">
-      <i class="fas fa-angle-right mr-2"></i>Sentosa Timer</a>
       <a href="#item-1" class="list-group-item" data-toggle="collapse">
       <i class="fas fa-angle-right mr-2"></i>Unrooted Devices
       </a>

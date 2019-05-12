@@ -5,6 +5,8 @@
     <link rel="stylesheet" type="text/css" href="css/scrollUpButton.css" media="all" />
     <link rel="stylesheet" type="text/css" href="css/stylesheet.css"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+  
     <!-- Javascript -->
     <script type="text/javascript" src="js/scrollUpButton.js"></script>
     <script type="text/javascript" src="js/scripts.js"></script> 
@@ -27,6 +29,15 @@
       </a>
       <div class="list-group collapse" id="item-2">
          <a href="#How_to_hide_root" class="list-group-item"><i class="fas fa-angle-right mr-2"></i>How to hide root</a>
+      </div>
+	   <a href="#item-3" class="list-group-item" data-toggle="collapse">
+      <i class="fas fa-angle-right mr-2"></i>Root Guide (Magisk + Smali) [Samsung]
+      </a>
+      <div class="list-group collapse" id="item-3">
+         <a href="#Samsung_Downloads" class="list-group-item"><i class="fas fa-angle-right mr-2"></i>Download files</a>
+         <a href="#Samsung_Flashing" class="list-group-item"><i class="fas fa-angle-right mr-2"></i>Flash TWRP and Magisk</a>
+         <a href="#Samsung_Smali" class="list-group-item"><i class="fas fa-angle-right mr-2"></i>Smali Patcher to mock location</a>
+         <a href="#Samsung_Gpsapp" class="list-group-item"><i class="fas fa-angle-right mr-2"></i>Install GPS Joystick</a>
       </div>
    </div>
 </div>

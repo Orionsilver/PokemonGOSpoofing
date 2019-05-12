@@ -109,7 +109,7 @@ Then proceed to download and install it accordingly.
 <!-- CD1337 -->
 <h1 id="Root_Samsung">Root Guide (Magisk + Smali) [Samsung]</h1>
 
-<h2 id="#Samsung_Downloads">Download files</h2>
+<h2 id="Samsung_Downloads">Download files</h2>
 <p><b>WARNING: Flashing a custom recovery to your device will void the warranty.<br/>
 We take no responsibility for any damage that may occur.</b></p>
 <p><b><i>Make sure you're at least on android version 6.0.</i></b><br/>
@@ -128,7 +128,7 @@ Smali Patcher doesn't work with < v6.0.</p>
 	<a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445" target="blank">Download from xda-developers</a></li>
 </ol>
 
-<h2 id="#Samsung_Flashing">Flash TWRP and Magisk</h2>
+<h2 id="Samsung_Flashing">Flash TWRP and Magisk</h2>
 <ol class="samsung_ol">
 	<li>Enable developer options<br/>
 	(Settings -> About Device -> Software Info -> Tap 7x on 'Build Number')</li>
@@ -160,7 +160,7 @@ Smali Patcher doesn't work with < v6.0.</p>
 	Open [Magisk Manager] go to [Magisk Hide] -> Check [Pokemon GO]<br/></li>
 </ol>
 
-<h2 id="#Samsung_Smali">Smali Patcher to mock location</h2>
+<h2 id="Samsung_Smali">Smali Patcher to mock location</h2>
 <ol class="samsung_ol">
 	<li>Connect your device to your computer.</li>
 	<li>Authorize USB debugging connection on your device</li>
@@ -172,7 +172,7 @@ Smali Patcher doesn't work with < v6.0.</p>
 	<li>Reboot after that.</li>
 </ol>
 
-<h2 id="#Samsung_Gpsapp">Install GPS Joystick</h2>
+<h2 id="Samsung_Gpsapp">Install GPS Joystick</h2>
 <p>Soon...</p>
 <!-- !CD1337 -->
 <a href="#" class="scrollUpButton"><span class="glyphicon glyphicon-chevron-up"></span></a>

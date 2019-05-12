@@ -31,3 +31,6 @@
 .list-group-item .glyphicon {
   margin-right: 5px;
 }
+
+ol.samsung_ol { margin-left: 0; padding-left: 1.8em; }
+ol.samsung_ol > li { margin-left: 0; padding-left: 0; }

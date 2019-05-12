@@ -95,6 +95,75 @@ Then proceed to download and install it accordingly.
 <p>There you will find a list of your installed apps. Put a <span class="glyphicon glyphicon-ok"></span> on Pokemon GO </p>
 <img src="images/magisk_manager4.png"/>
 <p>That's it! Pokemon GO shouldn't detect root anymore. Open it and test. If you do happen to get invalid OS error then check in your internal storage and delete any folder(s) with the name <b>"Magisk"</b>, <b>"Magisk Manager"</b> and retry to open Pokemon GO</p>
+<!-- CD1337 -->
+<h1 id="Root_Samsung">Root Guide (Magisk + Smali) [Samsung]</h1>
+
+<h2 id="#Samsung_Downloads">Download files</h2>
+<p><b>WARNING: Flashing a custom recovery to your device will void the warranty.<br/>
+We take no responsibility for any damage that may occur.</b></p>
+<p><b><i>Make sure you're at least on android version 6.0.</i></b><br/>
+Smali Patcher doesn't work with < v6.0.</p>
+<ol class="samsung_ol">
+	<li>Save the appropriate 'TWRP' to you computer<br/>
+	Download it here: <a href="https://twrp.me/Devices/" target="blank">https://twrp.me/Devices/</a><br/>
+	Device not listed? Search on xda-developers for a TWRP</li>
+	<li>Extract 'Odin (v3.13.1)' to your computer<br/>
+	<a href="https://forum.xda-developers.com/showthread.php?t=2711451" target="blank">Download from xda-developers</a></li>
+	<li>Install the 'Samsung Mobile Drivers' to your computer.<br/>
+	<a href="https://developer.samsung.com/galaxy/others/android-usb-driver-for-windows" target="blank">Download from Samsung</a></li>
+	<li>Extract Smali Patcher to you computer<br/>
+	<a href="https://forum.xda-developers.com/apps/magisk/module-smali-patcher-0-7-t3680053" target="blank">Download from xda-developers</a></li>
+	<li>Save magisk to your computer.<br/>
+	<a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445" target="blank">Download from xda-developers</a></li>
+</ol>
+
+<h2 id="#Samsung_Flashing">Flash TWRP and Magisk</h2>
+<ol class="samsung_ol">
+	<li>Enable developer options<br/>
+	(Settings -> About Device -> Software Info -> Tap 7x on 'Build Number')</li>
+	<li>Now go to Settings -> Developer options.<br/>
+	You need to enable [Enable OEM unlock] and [USB Debugging].<br/>
+	(Can't find OEM Unlock? No problem, proceed)</li>
+	<li>Reboot your device into Download mode.<br/>
+	To do this, power off your device and when he's off, hold the [Volume Down] + [Home] + [Power] buttons.<br/>
+	Once you reach the Download mode warning screen, press [Volume Up] to continue.</li>
+	<li>Connect your phone to your computer.</li>
+	<li>Open Odin and place the TWRP tar file in the [AP] slot and disable Auto-Reboot, then press [Start].</li>
+	<li>Hold [Volume Down] + [Home] + [Power] to get out of Download mode and immediately swap to [Volume Up] when the screen turns blank.<br/>
+	(If you don't see then TWRP boot splash try to flash TWRP again - go to step 5)</li>
+	<li>You will reach a screen asking you if you want to allow system modifications.<br/>
+	Swipe to the right.</li>
+	<li><b>** DO NOT EXIT TWRP AFTER THIS STEP, GO TO MAIN MENU AGAIN **</b><br/>
+	Go to [Wipe] -> [Format Data] -> and type 'yes' as instructed and go back to the main menu.</li>
+	<li>Without exiting TWRP, transfer the Magisk zipfile to your device</li>
+	<li>Flash the Magisk-zip using [Install] in TWRP.</li>
+	<li>Reboot to system once the zip is installed. </li>
+	<p><b>Wait 2-5 minutes for your device to finish setting itself up.</b></p>
+	<li>Check if your device contains the app Magisk Manager.<br/>
+	If not, download the [Magisk Manager] apk.<br/>
+	<a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445" target="blank">Download from xda-developers</a></li>
+	<li>Hide the Magisk manager.<br/>
+	Open [Magisk Manager] go to [Settings] -> [Hide Magisk Manager].<br/>
+	Wait a minute or 2 and [Magisk Manager] will re-open and it's called [Manager] now.</li>
+	<li>Hide Magisk for Pokemon GO<br/>
+	Open [Magisk Manager] go to [Magisk Hide] -> Check [Pokemon GO]<br/></li>
+</ol>
+
+<h2 id="#Samsung_Smali">Smali Patcher to mock location</h2>
+<ol class="samsung_ol">
+	<li>Connect your device to your computer.</li>
+	<li>Authorize USB debugging connection on your device</li>
+	<li>Run "SmaliPatcher.exe", First startup will automatically download the latest necessary binary's</li>
+	<li>Select your desired patches, but certainly check [Mock locations]</li>
+	<li>Hit "ADB PATCH" button</li>
+	<li>Once the process has completed, magisk module will be generated in the same directory as "SmaliPatcher.exe" named: "SmaliPatcherModule-X.X.X.X-fOmey@XDA.zip".</li>
+	<li>Install the generated zip file as a module in Magisk Manager.</li>
+	<li>Reboot after that.</li>
+</ol>
+
+<h2 id="#Samsung_Gpsapp">Install GPS Joystick</h2>
+<p>Soon...</p>
+<!-- !CD1337 -->
 <a href="#" class="scrollUpButton"><span class="glyphicon glyphicon-chevron-up"></span></a>
 </body>
 </html>
